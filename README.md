@@ -1,1 +1,1 @@
-# coin-detection
+# SEC-DIP--Coin-Detection-using-OpenCV-in-Python
